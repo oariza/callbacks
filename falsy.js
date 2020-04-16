@@ -2,11 +2,12 @@
 // true -> truthy
 // false -> falsy
 
-//falsies ->
+//falsies -> Valores que evaluan a falso
 const cadenaVacia = ''
-const cero = o
+const cero = 0
 const valorNulo = null
 const valorIndefinido = undefined
+const notANumber = NaN
 
 console.log('-----truthy-----')
 console.log('cadenaVacia:', !!cadenaVacia)

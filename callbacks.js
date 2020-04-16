@@ -97,3 +97,8 @@ construir(muro, (errorDeConstruccion, muroConstruido) => {
 })
 
 console.log('muro: ', muro)
+
+
+
+
+
